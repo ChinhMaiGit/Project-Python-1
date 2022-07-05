@@ -2,6 +2,8 @@
 
 **Author**: Chinh X. Mai, **Date**: June 28, 2022
 
+![image](https://user-images.githubusercontent.com/89245616/177420136-236acbee-e9c5-4eaa-9b54-239375306645.png)
+
 ## Case description
 
 Considering a hypothetical scenario, where I want to learn to invest in the stock market. To simplify the choices of stock I have to make, I will only consider the stocks in the DAX30 Index, as they are the major German blue chip companies trading on the Frankfurt Stock Exchange. The 10 components of the DAX30 index are listed in the table below
