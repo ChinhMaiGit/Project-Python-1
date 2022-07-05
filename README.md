@@ -42,3 +42,7 @@ I will also construct many type of plots to visualize stock data, depending on t
 For detailed documentation, please refer to the Github repository using the following link
 
 [Python Project 1 Github](https://github.com/ChinhMaiGit/Project-Python-1/)
+
+or access the analysis workbook directly
+
+[Python Project 1 Workbook](/html/project1.html)
