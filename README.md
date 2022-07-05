@@ -2,7 +2,7 @@
 
 **Author**: Chinh X. Mai, **Date**: June 28, 2022
 
-![image](https://user-images.githubusercontent.com/89245616/177420136-236acbee-e9c5-4eaa-9b54-239375306645.png)
+![image](https://user-images.githubusercontent.com/89245616/177420896-71b8076f-738d-4b42-b592-4694cf9ff4a1.png)
 
 ## Case description
 
