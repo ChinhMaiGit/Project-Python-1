@@ -34,3 +34,9 @@ This project aim to showcase my familiarity with Pandas and Plotly, which are th
 * visualize the cumulative returns of the chosen stocks
 
 I will also construct many type of plots to visualize stock data, depending on their use cases as well as customize these plots so that they could deliver the intended information.
+
+## Detailed documentation
+
+For detailed documentation, please refer to the Github repository using the following link
+
+[Github](https://github.com/ChinhMaiGit/Project-Python-1/)
