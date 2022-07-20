@@ -25,7 +25,7 @@ Considering a hypothetical scenario, where I want to learn to invest in the stoc
 
 These are the stocks that I would like to carry out an exploratory analysis on. As I want to invest in 6 stocks, I expect that the analysis will give me enough insights to select the stocks to form a portfolio and prepare for the optimization.
 
-## Objectives
+## Executive summary
 
 This project aim to showcase my familiarity with Pandas and Plotly, which are the two powerful packages respectively used to manipulate data and construct interactive plots in Python. Furthermore, I would like to use the tools provided by these packages to study the trends in prices, volatility in returns, and changes in cumulative returns of these stocks. Hence, the detailed analysis will focus on
 
